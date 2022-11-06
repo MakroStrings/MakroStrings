@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @MakroStrings
-- 👀 I’m interested in security coding 
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on anythig really just wanting to learn more
+-  Hi, I’m @MakroStrings
+-  I’m interested in security coding 
+-  I’m currently learning C#
+-  I’m looking to collaborate on anything really just wanting to learn more
+-  I am very new and really interested in coding
 
 
 <!---
